@@ -5,7 +5,9 @@ My name is Mpumelelo and i am an aspiring Software Developer.
 
 I use Draw.io for all my system analysis diagrams.
 
-:school: : Tshwane University Of Technology:desktop_computer::books:
+:school:I am Learning with :
+
+Tshwane University Of Technology:desktop_computer::books:
 
 How to Reach me :telephone::
 
